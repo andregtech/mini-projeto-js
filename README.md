@@ -28,10 +28,10 @@ mini-projeto-js/
   
   
 ## 📦 Instalação
-Para executar este projeto localmente e navegue até a pasta do projeto:
+Para executar este projeto localmente e navegar até a pasta do projeto:
 - Clone o repositório (se aplicável):
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/andregtech/mini-projeto-js
 ```
 - Instale as dependências:
 ```bash
