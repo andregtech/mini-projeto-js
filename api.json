@@ -1,0 +1,54 @@
+{
+  "tarefas": [
+    {
+      "titulo": "Caminhada",
+      "descricao": "Iniciar 6h da manhã, caminhada com duração de 1 hora para movimentar o físico.",
+      "id": 1
+    },
+    {
+      "titulo": "Alimentação",
+      "descricao": "Fazer ou comprar 8h da manhã, uma merenda reforçada, mas sem exageros, que garanta energia para estudar online o curso Full Stack.",
+      "id": 2
+    },
+    {
+      "titulo": "Revisão Geração Tech",
+      "descricao": "Revisar o conteúdo da aula de JavaScript sobre sintaxe, arrays, estrururas condicionais e estrururas de repetição.",
+      "id": 3
+    },
+    {
+      "titulo": "Enviar Mini Projeto",
+      "descricao": "Dia 30/03/2026 fazer o envio definitivo desse projeto na plataforma de ensino.",
+      "id": 4
+    },
+    {
+      "titulo": "Hidratação",
+      "descricao": "Beber água, encher a garrafinha, manter a garrafinha cheia no setup.",
+      "id": 5
+    },
+    {
+      "titulo": "Manutenção Celular",
+      "descricao": "Levar o celular quinta-feira na assistência técnica AndréCELL (display está com defeito).",
+      "id": 6
+    },
+    {
+      "titulo": "Organização do Setup",
+      "descricao": "Limpar a mesa, guardar o estojo e organizar os cabos de carregadores para evitar distrações visuais.",
+      "id": 7
+    },
+    {
+      "titulo": "Passar na Farmácia",
+      "descricao": "Comprar vitamina C e colocar vinte reais de créditos no chip.",
+      "id": 8
+    },
+    {
+      "titulo": "Rede Social",
+      "descricao": "Logar 18h a minha caixa de mensagens para verificar se chegou nova mensagem; Se sim, responder na hora.",
+      "id": 9
+    },
+    {
+      "titulo": "Gestão Financeira",
+      "descricao": "Revisar extratos, garantir que nenhum boleto ou fatura ficou para trás, e visualizar o saldo.",
+      "id": 10
+    }
+  ]
+}
