@@ -15,16 +15,16 @@
   
 ## 📂 Estrutura do Projeto
 Dentro da pasta do projeto, temos os seguintes arquivos:  
-mini-projeto-js/ 
-│
-├── index.html        → Arquivo principal da página
-├── index.css         → Estilos da página
-├── index.js          → Código JavaScript
-├── api.json          → Dados que simulam um banco de dados
-│
-├── package.json      → Configuração do projeto
-├── package-lock.json → Arquivo gerado automaticamente pelo npm
-└── README.md         → Explicação do projeto
+mini-projeto-js/  
+│  
+├── index.html        → Arquivo principal da página  
+├── index.css         → Estilos da página  
+├── index.js          → Código JavaScript  
+├── api.json          → Dados que simulam um banco de dados  
+│  
+├── package.json      → Configuração do projeto  
+├── package-lock.json → Arquivo gerado automaticamente pelo npm  
+└── README.md         → Explicação do projeto  
   
   
 ## 📦 Instalação
