@@ -1,8 +1,8 @@
 # ⚙️ MINI PROJETO JS
 
 ## 🔗 Sobre
-- Este é um Mini Projeto de JavaScript, desenvolvido durante as aulas finais de exercícios de Javascript do Curso Full Stack
-- Esse projeto é uma lista de minhas tarefas (To-do list), importante para eu-aluno entender, na prática, como funciona a união das ferramentas de estruturas de repetição, estruturas de condição e requisições HTTP, com a finalidade de utilizar o json-server para simular um backend.
+- Este é um Mini Projeto desenvolvido durante as aulas finais de exercícios de Javascript do Curso Full Stack
+- Este projeto é uma lista de minhas tarefas (To-do list), importante para eu-aluno entender, na prática, como funciona a união das ferramentas de estruturas de repetição, estruturas de condição e requisições HTTP, com a finalidade de utilizar o json-server para simular um backend.
   
   
 ## 🛠️ Tecnologias Utilizadas
@@ -14,7 +14,7 @@
   
   
 ## 📂 Estrutura do Projeto
-- Dentro da pasta do projeto, temos os seguintes arquivos:  
+Dentro da pasta do projeto, temos os seguintes arquivos:  
 mini-projeto-js/  
 │  
 ├── index.html        → Arquivo principal da página  
